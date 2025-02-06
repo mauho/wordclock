@@ -40,6 +40,7 @@ const float s_attack = 3.9;    //   3.6
 
 const char rulesDST[] = "EU";
 
+// TODO Introduce structs here.
 // Word positions defined by      {index, length}
 const byte w_es[2] PROGMEM = { 0, 2 };
 const byte w_isch[2] PROGMEM = { 3, 4 };
